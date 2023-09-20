@@ -1,6 +1,6 @@
 ### 👨‍💻 Fala Dev, Sou Leonardo Mariano, 22 anos.
 
-- 🎓 Cursando Sistema de Informação - 7º Termo, Toledo Prudente.
+- 🎓 Cursando Sistema de Informação - 8º Termo, Toledo Prudente.
 
 <div align="center">
   <a href="https://github.com/DevLeonardoMariano">
