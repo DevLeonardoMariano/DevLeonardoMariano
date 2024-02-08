@@ -1,6 +1,6 @@
-### 👨‍💻 Fala Dev, Sou Leonardo Mariano, 22 anos.
+### 👨‍💻 Fala Dev, Sou Leonardo Mariano, 23 anos.
 
-- 🎓 Cursando Sistema de Informação - 8º Termo, Toledo Prudente.
+- 🎓 Graduado em Sistema de Informação.
 
 <div align="center">
   <a href="https://github.com/DevLeonardoMariano">
@@ -12,5 +12,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 
 </div>
