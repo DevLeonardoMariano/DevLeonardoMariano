@@ -1,4 +1,4 @@
-### 👨‍💻 Fala Dev, Sou Leonardo Mariano, 23 anos.
+### 👨‍💻 Fala Dev, Sou Leonardo Mariano, 24 anos.
 
 - 🎓 Graduado em Sistema de Informação.
 
