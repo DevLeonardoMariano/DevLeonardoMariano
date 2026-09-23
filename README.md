@@ -152,7 +152,7 @@ Desenvolvimento de sites, landing pages e aplicações web personalizadas para d
 <img src="https://img.shields.io/badge/GitHub-DevLeonardoMariano-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/leonardo-mariano-360654182/">
 <img src="https://img.shields.io/badge/LinkedIn-Leonardo%20Mariano-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
